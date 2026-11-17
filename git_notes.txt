@@ -1,0 +1,4 @@
+git init  incepe un nou proiect cu git
+git status  arata branch-ul pe care esti si cateva modificari
+git checkout -b name  creeaza branch nou cu numele name
+git checkout name  te muta la branch-ul name
